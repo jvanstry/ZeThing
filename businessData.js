@@ -22,3 +22,8 @@ businessDataMapper = {
   fy1TotalAd: 'FY+1 TOTAL ADDRESSABLE',
   fyUnAddSpend: 'FY UNADDRESSABLE SPEND'
 }
+
+exports.businessDataMapper = businessDataMapper;
+exports.getGoogs = function getGoogleData(){
+  
+}
